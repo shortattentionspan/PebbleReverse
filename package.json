@@ -1,0 +1,123 @@
+{
+    "author": "Mark",
+    "dependencies": {},
+    "keywords": [],
+    "name": "reverse-modern",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "Reverse Modern Minimal",
+        "enableMultiJS": true,
+        "messageKeys": [
+            "dummy"
+        ],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/modern_background_new.png",
+                    "name": "IMAGE_BACKGROUND_BADGE",
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/modern_logo.png",
+                    "menuIcon": true,
+                    "name": "IMAGE_MENU_ICON",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/Black Date Window.png",
+                    "name": "IMAGE_DATE_WINDOW",
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/Black-Icon Battery 10.png",
+                    "name": "ICON_BATTERY_10",
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/Black-Icon Battery 100.png",
+                    "name": "ICON_BATTERY_100",
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/Black-Icon Battery 50.png",
+                    "name": "ICON_BATTERY_50",
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/Black-Icon Battery 30.png",
+                    "name": "ICON_BATTERY_30",
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/Black-Icon Battery 20.png",
+                    "name": "ICON_BATTERY_20",
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/Black-bluetooth.png",
+                    "name": "BLUETOOTH_CONNECTED",
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/Icon Battery 80.png",
+                    "name": "ICON_BATTERY_80",
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/modern minimal 3 background no badge.png",
+                    "name": "IMAGE_BACKGROUND_NOBADGE",
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/Icon Battery 70.png",
+                    "name": "ICON_BATTERY_70",
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/Icon Battery 90.png",
+                    "name": "ICON_BATTERY_90",
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/Icon Bluetooth disconnected.png",
+                    "name": "BLUETOOTH_DISCONNECTED",
+                    "type": "bitmap"
+                },
+                {
+                    "file": "fonts/Roboto-Condensed.ttf",
+                    "name": "FONT_ROBOTO_CONDENSED_21",
+                    "type": "font"
+                },
+                {
+                    "file": "images/Icon Battery 40.png",
+                    "name": "ICON_BATTERY_40",
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/Icon Battery 60.png",
+                    "name": "ICON_BATTERY_60",
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/Icon Battery Charging.png",
+                    "name": "ICON_BATTERY_CHARGING",
+                    "type": "bitmap"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt"
+        ],
+        "uuid": "dabc4bfc-306f-4fd2-a7c8-1a861843beba",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "0.1.0"
+}
